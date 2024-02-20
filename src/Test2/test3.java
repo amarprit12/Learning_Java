@@ -1,4 +1,4 @@
-package Test2;
+package src.Test2;
 
 public class test3 {
     public static void main(String[] args) {
